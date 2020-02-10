@@ -15,7 +15,18 @@ Correr en Local:
 $ npm start
 ```
 
+Ruta Local:
+```sh
+http://localhost:3000/api/users
+```
+
 Deploy:
 ```sh
 $ sls deploy
 ```
+
+Ruta dev:
+```sh
+{server}/dev/api/users
+```
+
